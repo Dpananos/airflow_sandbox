@@ -1,6 +1,6 @@
-!*/.gitkeep
 config/*
 logs/*
 plugins/*
 postgres_data/*
 */__pycache__
+!*/*.gitkeep
